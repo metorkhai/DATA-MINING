@@ -1,11 +1,20 @@
-# 🛠️ Data Mining Project
+# 📒 DATA-MINING Notebooks
 
-## 📋 Giới thiệu
-Dự án này thực hiện phân tích và khai phá dữ liệu trên bộ **Online Retail** (UCI Machine Learning Repository).  
-Mục tiêu:
-- Hiểu hành vi mua sắm của khách hàng
-- Khai phá luật kết hợp (Association Rules)
-- Dự báo doanh thu theo thời gian
-- Xây dựng hệ thống gợi ý sản phẩm
+Kho này lưu trữ các **Google Colab notebook** về Data Mining / Machine Learning
+để tiện chia sẻ, mở trực tiếp trên Colab.
 
-## 🗂 Cấu trúc thư mục
+## 🔗 Mở notebook
+
+| Notebook | Open in Colab |
+|----------|---------------|
+| Mining Online Retail | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/DATA-MINING/blob/main/notebooks/Mining_Online_Retail.ipynb) |
+
+> Thêm notebook mới: chỉ cần đặt file `.ipynb` vào thư mục `notebooks/`
+> rồi copy bảng trên và thêm một hàng mới.
+
+## 🛠 Sử dụng
+* Click **Open in Colab** để mở và chạy trực tiếp trên Google Colab.
+* Hoặc clone repo và chạy local bằng Jupyter.
+
+## 🏷 Giấy phép
+MIT (hoặc giấy phép bạn muốn)
