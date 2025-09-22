@@ -7,7 +7,7 @@ Kho này lưu trữ các **Google Colab notebook** về Data Mining / Machine Le
 
 | Notebook | Open in Colab |
 |----------|---------------|
-| Mining Online Retail | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/DATA-MINING/blob/main/notebooks/Mining_Online_Retail.ipynb) |
+| Mining Online Retail | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/<your-username>/DATA-MINING/blob/main/notebooks/Mining_Online_Retail.ipynb](https://colab.research.google.com/drive/18dAt2yJliYYXpBhU05NYqh6JyeM7SWZP?usp=sharing)) |
 
 > Thêm notebook mới: chỉ cần đặt file `.ipynb` vào thư mục `notebooks/`
 > rồi copy bảng trên và thêm một hàng mới.
