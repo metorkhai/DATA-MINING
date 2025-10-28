@@ -1,40 +1,40 @@
 # 📚 DATA-MINING Notebook Collection
 
-Đây là kho lưu các notebook Colab của mình về Data Mining. 
-Bạn có thể mở trực tiếp trên Colab khi cần.
+This repository contains my Google Colab notebooks for Data Mining projects.
+You can open them directly on Colab when needed.
 
 ---
 
-## 🔗 Liên kết Colab
+## 🔗 Colab Links
 
-| Notebook | Link Notebook Gốc (ID) | Mở bằng Colab |
-|:---|:---|:---:|
-| **Notebook 1** (Hãy điền tên) | `15vJLAe8UDxYfz8PIIO9lslee6u6tJR4u` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15vJLAe8UDxYfz8PIIO9lslee6u6tJR4u) |
-| **Notebook 2** (Hãy điền tên) | `1W5l307eqV5Wx6EbofLWRIyA4DVw-7lu3` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W5l307eqV5Wx6EbofLWRIyA4DVw-7lu3) |
-| **Notebook 3** (Hãy điền tên) | `1PLFgfxO1R9BCTdSGCo5cmL7SwDthPL3W` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLFgfxO1R9BCTdSGCo5cmL7SwDthPL3W) |
-| **Notebook 4** (Hãy điền tên) | `1H5s4ZsIIiPVx5x5MnlKDcw7TaVMARrMI` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H5s4ZsIIiPVx5x5MnlKDcw7TaVMARrMI) |
-| **Notebook 5** (Hãy điền tên) | `1VeoWUWIG7uJteRLNcKIdOTqGCpGF8IGp` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VeoWUWIG7uJteRLNcKIdOTqGCpGF8IGp) |
-| **Notebook 6** (Hãy điền tên) | `12C9eUq-q_LTSOy3suiJINB2-Dy4TNWst` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12C9eUq-q_LTSOy3suiJINB2-Dy4TNWst) |
-| Mining Online Retail (Mẫu) | `18dAt2yJliYYXpBhU05NYqh6JyeM7SWZP` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18dAt2yJliYYXpBhU05NYqh6JyeM7SWZP?usp=sharing) |
+| Notebook | Mở bằng Colab (Open In Colab) |
+|:---|:---:|
+| **Flower Classification** (`Flower_Classification.ipynb`) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15vJLAe8UDxYfz8PIIO9lslee6u6tJR4u) |
+| **Clustering News** (`Clustering_News_BT.ipynb`) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W5l307eqV5Wx6EbofLWRIyA4DVw-7lu3) |
+| **Handwritten Digit Recognition** (`Chu_Viet_tay.ipynb`) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PLFgfxO1R9BCTdSGCo5cmL7SwDthPL3W) |
+| **Movie Data API Project** (`Movie_API.ipynb`) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H5s4ZsIIiPVx5x5MnlKDcw7TaVMARrMI) |
+| **Seaborn Nutrition Analysis** (`seaborn_nutrition.ipynb`) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VeoWUWIG7uJteRLNcKIdOTqGCpGF8IGp) |
+| **Seaborn Visualization Tutorial** (`hoc_seabon.ipynb`) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12C9eUq-q_LTSOy3suiJINB2-Dy4TNWst) |
+| **Online Retail Mining** (Example) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18dAt2yJliYYXpBhU05NYqh6JyeM7SWZP?usp=sharing) |
 
 ---
 
-## 📂 Cách sử dụng
+## 📂 How to Use
 
-1. Click vào **“Open In Colab”** để mở Notebook trong Colab online. 
-2. Nếu muốn lưu lại mã nguồn & notebook vào GitHub, **clone** repo về máy:
+1. Click **“Open In Colab”** to open the Notebook in Colab online.
+2. To save the source code and notebooks into GitHub, clone the repository locally:
 
     ```bash
     git clone [https://github.com/](https://github.com/)<YourUsername>/DATA-MINING.git
     ```
 
-3. Thêm notebook mới bằng cách tải notebook từ Colab về → đặt trong thư mục **`Notebook/`** → `git add`, `git commit` & `git push`.
+3. Add new notebooks by downloading them from Colab → placing them in the **`Notebook/`** folder → then running `git add`, `git commit` & `git push`.
 
 ---
 
-## 🛠 Môi trường cần thiết (Tuỳ notebook)
+## 🛠 Required Environment (Per Notebook)
 
-- Colab đã có sẵn nhiều thư viện, nếu cần thêm, chèn cell đầu Notebook:
+- Colab comes pre-installed with many libraries. If more are needed, add a cell at the top of the Notebook:
 
   ```python
-  !pip install <tên_thư_viện>
+  !pip install <library_name>
